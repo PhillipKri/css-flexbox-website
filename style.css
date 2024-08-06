@@ -1,0 +1,22 @@
+body {
+    display: flex;
+}
+
+a {
+    color: white;
+}
+
+.header {
+    display: flex;
+    background-color: darkslateblue;
+}
+
+ul {
+    display: flex;
+}
+
+
+img {
+    width: 200px;
+}
+
