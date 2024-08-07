@@ -1,5 +1,6 @@
 body {
     display: flex;
+    flex-direction: column;
 }
 
 a {
@@ -8,15 +9,13 @@ a {
 
 .header {
     display: flex;
-    background-color: darkslateblue;
+    background-color: rgb(58, 52, 95);
 }
 
-ul {
-    display: flex;
-}
+
 
 
 img {
-    width: 200px;
+    width: 150px;
 }
 
